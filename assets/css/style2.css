@@ -131,10 +131,29 @@ body {
 	background-image: url(../images/rps.jpg);
 }
 
+.placeholder6 {
+	margin: 15px 30px 15px 30px;
+	height: 150px;
+	width: 200px;
+	float: left;
+	background-image: url(../images/hikeproject2.jpg);
+}
 .textwrap {
 	padding: 8px 0px 0px 0px;
 	margin: 100px 0px 0px 0px;
 	height: 30px;
+	width: 100%;
+    color: white;
+	background-color: #4aaaa5;
+	text-align: center;
+	font-size: 24px; 
+
+
+}
+.textwrap2 {
+	padding: 4px 0px 0px 0px;
+	margin: 100px 0px 0px 0px;
+	height: 50px;
 	width: 100%;
     color: white;
 	background-color: #4aaaa5;
