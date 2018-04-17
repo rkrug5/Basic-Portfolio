@@ -68,7 +68,7 @@ body {
 	color: #4aaaa5;
 	margin: 30px 30px 30px 30px;
 	width: 520px;
-	height: 830px;
+	height: 1030px;
 	background-color: white;
 	float: left;
 }
@@ -148,12 +148,29 @@ body {
 }
 
 .placeholder8 {
+	/* background-color: blue; */
+	margin: 15px 30px 15px 30px;
+	height: 150px;
+	width: 200px;
+	float: left;
+	background-image: url(../images/node2.jpg);
+}
+
+.placeholder9 {
+	margin: 15px 30px 15px 30px;
+	height: 150px;
+	width: 200px;
+	float: left;
+	background-image: url(../images/node2.jpg);
+}
+
+.placeholder10 {
 	background-color: blue;
 	margin: 15px 30px 15px 30px;
 	height: 150px;
 	width: 200px;
 	float: left;
-	/* background-image: url(../images/hikeproject2.jpg); */
+	/* background-image: url(../images/node2.jpg); */
 }
 .textwrap {
 	padding: 8px 0px 0px 0px;
