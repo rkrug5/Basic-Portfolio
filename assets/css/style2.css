@@ -68,7 +68,7 @@ body {
 	color: #4aaaa5;
 	margin: 30px 30px 30px 30px;
 	width: 520px;
-	height: 1030px;
+	height: 1230px;
 	background-color: white;
 	float: left;
 }
@@ -171,6 +171,23 @@ body {
 	width: 200px;
 	float: left;
 	background-image: url(../images/express4.jpg);
+}
+.placeholder11 {
+	margin: 15px 30px 15px 30px;
+	height: 150px;
+	width: 200px;
+	float: left;
+	background-image: url(../images/burger4.jpg);
+	background-repeat: no-repeat;
+}
+
+.placeholder12 {
+	background-color: blue;
+	margin: 15px 30px 15px 30px;
+	height: 150px;
+	width: 200px;
+	float: left;
+	/* background-image: url(../images/express4.jpg); */
 }
 .textwrap {
 	padding: 8px 0px 0px 0px;
